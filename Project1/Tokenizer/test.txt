@@ -1,0 +1,18 @@
+#include<iostream>
+"Object \" Oriented \" Design"
+// Displaying cpp comment
+/* Displaying c comment */
+// Displaying alphanumeric tokens
+12345abcde
+// Displaying punctuators tokens
+. , ; : 
+/* displaying the special single character token */
+= + - [ ]
+//displaying the _
+int_var;
+for(int i=0;i<10;i++)
+{
+}
+/* displaying the special character pair  token */
+<< >> == ++ 
+if(a==b)

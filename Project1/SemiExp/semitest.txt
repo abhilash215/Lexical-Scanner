@@ -1,0 +1,16 @@
+#include<STDIO>
+class EatPunctuator 
+public:
+	virtual void eatChars()	{
+		token.clear();
+		for(int i=0;i<100;i++)
+		for(int i=9;i<len();i++)
+		for(auto i:tokens)
+		do {
+			token += currChar;
+			if (!_pIn->good())  // end of stream
+				return;
+			currChar = _pIn->get();
+		} while (!ispunct(currChar));
+	}
+};

@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TestExecutive.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TestExecutive.vcxproj -> C:\Users\abhiu\Desktop\OOD\Project1\Debug\TestExec.exe
